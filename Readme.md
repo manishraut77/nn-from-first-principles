@@ -16,9 +16,9 @@ Gradient-based optimization support
 
 Project Structure
 
-├── scalar.py     # Autograd engine
-├── neurons.py    # Neuron, Layer, and MLP
-└── README.md
+scalar.py     # Autograd engine
+neurons.py    # Neuron, Layer, and MLP
+README.md
 
 Acknowledgment
 
